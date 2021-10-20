@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! My name is Igor! 👋
+ - Junior C# developer
+ - 19 years old
+ - Novosibirsk city
 
-<!--
-**KuratovIgor/KuratovIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education 🎓
+ - Higher College Informatic of NSU (2023) 
 
-Here are some ideas to get you started:
+### My Skills 🪓
+ - C#, C++, Python
+ - WinForms, WPF
+ - SQL
+ - Git
+ - Refactoring, SOLID, Design Patterns, OOP
+ - Algorithms, Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts 📞
+ - VK: https://vk.com/igor_kuratov
+ - Gmail: kuratovigor084@gmail.com
