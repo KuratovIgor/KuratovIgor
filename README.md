@@ -1,5 +1,6 @@
 ### Hi there! My name is Igor! 👋
  - Junior C# developer
+ - I have experience working as C# developer
  - 19 years old
  - Novosibirsk city
 
