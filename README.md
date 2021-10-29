@@ -19,3 +19,4 @@
 ### Contacts 📞
  - VK: https://vk.com/igor_kuratov
  - Gmail: kuratovigor084@gmail.com
+ - Telegram: igor_kuratov
