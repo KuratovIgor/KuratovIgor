@@ -1,6 +1,4 @@
 ### Hi there! My name is Igor! 👋
- - Junior C# developer
- - I have experience working as C# developer
  - 19 years old
  - Novosibirsk city
 
@@ -10,10 +8,13 @@
 ### My Skills 🪓
  - C#, C++, Python
  - WinForms, WPF
- - SQL
+ - T-SQL
  - Git
  - Refactoring, SOLID, Design Patterns, OOP
  - Algorithms, Data Structures
+
+### Experience
+ - Software engineer C# (4 months)
 
 ### Contacts 📞
  - VK: https://vk.com/igor_kuratov
