@@ -1,6 +1,3 @@
-### Education 🎓
- - Higher College Informatic of NSU (2023) 
-
 ### My Skills 🧠
  - C#, C++, Python
  - WinForms, WPF
