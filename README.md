@@ -5,7 +5,7 @@
 ### Education 🎓
  - Higher College Informatic of NSU (2023) 
 
-### My Skills 🪓
+### My Skills 🧠
  - C#, C++, Python
  - WinForms, WPF
  - T-SQL
@@ -13,7 +13,7 @@
  - Refactoring, SOLID, Design Patterns, OOP
  - Algorithms, Data Structures
 
-### Experience
+### Experience 🪓
  - Software engineer C# (4 months)
 
 ### Contacts 📞
