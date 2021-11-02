@@ -1,7 +1,3 @@
-### Hi there! My name is Igor! 👋
- - 19 years old
- - Novosibirsk city
-
 ### Education 🎓
  - Higher College Informatic of NSU (2023) 
 
@@ -12,9 +8,6 @@
  - Git
  - Refactoring, SOLID, Design Patterns, OOP
  - Algorithms, Data Structures
-
-### Experience 🪓
- - Software engineer C# (4 months)
 
 ### Contacts 📞
  - VK: https://vk.com/igor_kuratov
