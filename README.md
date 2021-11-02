@@ -1,3 +1,5 @@
+![C#](https://img.shields.io/badge/-C#-blueviolet?style=plastic&logo=C#)
+
 ### My Skills 🧠
  - C#, C++, Python
  - WinForms, WPF
