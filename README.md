@@ -1,6 +1,7 @@
 ## Skills 🧠
- - *C#, C++, Python*
+ - *C#, C++*
  - *WPF, WinForms*
+ - *HTML, CSS, JS*
  - *Git*
  - *T-SQL*
  - *Refactoring, Design patterns, Data structures*
@@ -8,4 +9,4 @@
 ### Contacts 📞
  - *VK: https://vk.com/igor_kuratov*
  - *Gmail: kuratovigor084@gmail.com*
- - *Telegram: igor_kuratov*
+ - *Telegram: igor_kuratovv*
