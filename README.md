@@ -7,7 +7,7 @@
  - *T-SQL*
  - *Refactoring, Design patterns, Data structures*
 
-##Might be interesting 🍒
+## Might be interesting 🍒
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
  - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
 
