@@ -2,6 +2,7 @@
  - *C#, C++*
  - *WPF, WinForms*
  - *HTML, CSS, JS*
+ - *Vue.js*
  - *Git*
  - *T-SQL*
  - *Refactoring, Design patterns, Data structures*
