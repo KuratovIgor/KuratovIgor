@@ -1,7 +1,8 @@
 ## Skills 🧠
  - *C#, C++*
  - *WPF, WinForms*
- - *HTML, CSS, JS*
+ - *HTML, CSS, JS, TS*
+ - El-Plus
  - *Vue.js*
  - *Git*
  - *T-SQL*
