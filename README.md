@@ -9,10 +9,18 @@
 
 ## Might be interesting 🍒
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
- - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
 
-## Site layout works 💻
+## Some pet web projects 🌐
  - [Portfolio template](https://kuratovigor.github.io/portfolioDemo.github.io/)
+ - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
+ - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
+ - [Pokedex](https://github.com/KuratovIgor/pokedex)
+
+## Desktop pet projects 💻
+ - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
+ - [ATM](https://github.com/KuratovIgor/Cash-Machine)
+ - [Student record book](https://github.com/KuratovIgor/Record_book)
+ - [Computer shop](https://github.com/KuratovIgor/SCN)
 
 ### Contacts 📞
  - *VK: https://vk.com/igor_kuratov*
