@@ -1,9 +1,3 @@
-## Languages
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ## Skills 🧠
  - *C#, C++*
  - *WPF, WinForms*
@@ -27,7 +21,8 @@
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
  - [ATM](https://github.com/KuratovIgor/Cash-Machine)
  - [Student record book](https://github.com/KuratovIgor/Record_book)
- - [Computer shop](https://github.com/KuratovIgor/SCN)
+ - [Computer shop](https://github.com/KuratovIgor/SCN)![html](https://user-images.githubusercontent.com/79984163/168530300-9e4f952a-38bd-4619-a84c-8eae732b779b.png)
+
 
 ### Contacts 📞
  - *VK: https://vk.com/igor_kuratov*
