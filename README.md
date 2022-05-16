@@ -1,5 +1,5 @@
 ## Skills 🧠
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+(https://github.com/KuratovIgor/images/raw/master/js.png)
  - *C#, C++*
  - *WPF, WinForms*
  - *HTML, CSS, JS, TS*
