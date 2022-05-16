@@ -1,5 +1,6 @@
 ## Skills 🧠
-(https://github.com/KuratovIgor/images/raw/master/js.png)
+![js](https://user-images.githubusercontent.com/79984163/168528661-6e2081c1-a298-4179-9388-eca496e75f5a.png)
+
  - *C#, C++*
  - *WPF, WinForms*
  - *HTML, CSS, JS, TS*
