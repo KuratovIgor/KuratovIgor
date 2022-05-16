@@ -21,7 +21,7 @@
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
  - [ATM](https://github.com/KuratovIgor/Cash-Machine)
  - [Student record book](https://github.com/KuratovIgor/Record_book)
- - [Computer shop](https://github.com/KuratovIgor/SCN)![html](https://user-images.githubusercontent.com/79984163/168530300-9e4f952a-38bd-4619-a84c-8eae732b779b.png)
+ - [Computer shop](https://github.com/KuratovIgor/SCN)
 
 
 ### Contacts 📞
