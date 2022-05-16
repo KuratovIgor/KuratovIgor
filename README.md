@@ -1,6 +1,10 @@
-## Skills 🧠
-![js](https://user-images.githubusercontent.com/79984163/168528661-6e2081c1-a298-4179-9388-eca496e75f5a.png)
+## Languages
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## Skills 🧠
  - *C#, C++*
  - *WPF, WinForms*
  - *HTML, CSS, JS, TS*
