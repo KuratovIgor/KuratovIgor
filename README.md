@@ -16,6 +16,7 @@
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
+ - [todo list api](https://todoexpressss.herokuapp.com/)
 
 ## Desktop pet projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
