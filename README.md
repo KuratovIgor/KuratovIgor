@@ -27,7 +27,7 @@
  - [Computer shop](https://github.com/KuratovIgor/SCN)
  
 ## Project presets
- -[WEB project preset](https://github.com/KuratovIgor/web-project-preset)
+ - [WEB project preset](https://github.com/KuratovIgor/web-project-preset)
 
 
 ### Contacts 📞
