@@ -2,7 +2,9 @@
  - *C#, C++*
  - *WPF, WinForms*
  - *HTML, CSS, JS, TS*
- - El-Plus
+ - *Webpack*
+ - *ESLint, StyleLint, Prettier*
+ - *El-Plus*
  - *Vue.js*
  - *Git*
  - *T-SQL*
@@ -23,6 +25,9 @@
  - [ATM](https://github.com/KuratovIgor/Cash-Machine)
  - [Student record book](https://github.com/KuratovIgor/Record_book)
  - [Computer shop](https://github.com/KuratovIgor/SCN)
+ 
+## Project presets
+ -[WEB project preset](https://github.com/KuratovIgor/web-project-preset)
 
 
 ### Contacts 📞
