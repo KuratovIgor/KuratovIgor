@@ -14,11 +14,15 @@
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
 
 ## Some pet web projects 🌐
- - [Portfolio template](https://kuratovigor.github.io/portfolioDemo.github.io/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
- - [todo list api](https://todoexpressss.herokuapp.com/)
+ 
+ ## NodeJS pet projects
+  - [todo list api](https://todoexpressss.herokuapp.com/)
+  
+  ## Layouts
+   - [Portfolio template](https://kuratovigor.github.io/portfolioDemo.github.io/)
 
 ## Desktop pet projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
