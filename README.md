@@ -14,8 +14,9 @@
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
 
 ## Some pet web projects 🌐
- - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
+ - [Simple card gallery](kuratovigor.github.io/card-gallery/)
  - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
+ - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
  
  ## NodeJS pet projects
