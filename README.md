@@ -17,6 +17,7 @@
  - [Simple card gallery](https://kuratovigor.github.io/card-gallery/)
  - [Drag & Drop](https://kuratovigor.github.io/drag-and-drop/)
  - [Beautiful slider](https://kuratovigor.github.io/slider/)
+ - [Colorful hover board](https://kuratovigor.github.io/hover-board/)
  - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
