@@ -14,9 +14,7 @@
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
 
 ## Some pet web projects 🌐
- - [Simple card gallery](https://kuratovigor.github.io/card-gallery/)
- - [Drag & Drop](https://kuratovigor.github.io/drag-and-drop/)
- - [Beautiful slider](https://kuratovigor.github.io/slider/)
+ - [AIM training game](https://kuratovigor.github.io/aim-training/)
  - [Colorful hover board](https://kuratovigor.github.io/hover-board/)
  - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
