@@ -7,6 +7,7 @@
  - *El-Plus*
  - *Vue.js*
  - *Git*
+ - *Docker*
  - *T-SQL*
  - *Refactoring, Design patterns, Data structures*
  
@@ -18,15 +19,11 @@
 ## Some pet web projects 🌐
  - [AIM training game](https://kuratovigor.github.io/aim-training/)
  - [Colorful hover board](https://kuratovigor.github.io/hover-board/)
- - [Simple ToDo list & local storage](https://kuratovigor.github.io/todoListJS.github.io/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
  
  ## NodeJS pet projects
   - [todo list api](https://todoexpressss.herokuapp.com/)
-  
-  ## Layouts
-   - [Portfolio template](https://kuratovigor.github.io/portfolioDemo.github.io/)
 
 ## Desktop pet projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
