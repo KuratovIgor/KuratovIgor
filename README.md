@@ -16,7 +16,7 @@
 ## Might be interesting 🍒
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
 
-## Some pet web projects 🌐
+## Some web projects 🌐
  - [AIM training game](https://kuratovigor.github.io/aim-training/)
  - [Colorful hover board](https://kuratovigor.github.io/hover-board/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
