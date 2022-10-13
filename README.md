@@ -7,10 +7,8 @@
  - *ESLint, StyleLint, Prettier*
  - *El-Plus*
  - *Vue.js*
- - *Git*
- - *GraphQL*
- - *Docker*
- - *T-SQL*
+ - *Git, Docker*
+ - *SQL, GraphQL*
  - *Refactoring, Design patterns, Data structures*
  
 ## [My portfolio website](https://kuratovigor.github.io/portfolio-website)
