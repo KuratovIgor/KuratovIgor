@@ -2,11 +2,13 @@
  - *C#, C++*
  - *WPF, WinForms*
  - *HTML, CSS, JS, TS*
+ - *Node JS*
  - *Webpack*
  - *ESLint, StyleLint, Prettier*
  - *El-Plus*
  - *Vue.js*
  - *Git*
+ - *GraphQL*
  - *Docker*
  - *T-SQL*
  - *Refactoring, Design patterns, Data structures*
@@ -22,10 +24,10 @@
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
  
- ## NodeJS pet projects
+ ## NodeJS projects
   - [todo list api](https://todoexpressss.herokuapp.com/)
 
-## Desktop pet projects 💻
+## Desktop projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
  - [ATM](https://github.com/KuratovIgor/Cash-Machine)
  - [Student record book](https://github.com/KuratovIgor/Record_book)
