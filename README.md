@@ -21,13 +21,9 @@
  - [Colorful hover board](https://kuratovigor.github.io/hover-board/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
  - [Pokedex](https://github.com/KuratovIgor/pokedex)
- 
- ## NodeJS projects
-  - [todo list api](https://todoexpressss.herokuapp.com/)
 
 ## Desktop projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
- - [ATM](https://github.com/KuratovIgor/Cash-Machine)
  - [Student record book](https://github.com/KuratovIgor/Record_book)
  - [Computer shop](https://github.com/KuratovIgor/SCN)
  
