@@ -20,7 +20,7 @@
  - [AIM training game](https://kuratovigor.github.io/aim-training/)
  - [Colorful hover board](https://kuratovigor.github.io/hover-board/)
  - [GitHub API worker](https://kuratovigor.github.io/github-users-worker/)
- - [Pokedex](https://github.com/KuratovIgor/pokedex)
+ - [Pokedex](http://pokedex.kuratovia.ru/)
 
 ## Desktop projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000)
