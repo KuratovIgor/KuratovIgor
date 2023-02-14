@@ -1,6 +1,6 @@
 ## Skills 🧠
  - *C#, C++*
- - *WPF, WinForms*
+ - *WPF*
  - *HTML, CSS, JS, TS*
  - *Node JS*
  - *Webpack*
@@ -8,7 +8,7 @@
  - *El-Plus*
  - *Vue.js*
  - *Git, Docker*
- - *SQL, GraphQL*
+ - *SQL*
  - *Refactoring, Design patterns, Data structures*
 
 ## [My website](https://kuratovigor.github.io/portfolio-website/)
