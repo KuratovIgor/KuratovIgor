@@ -1,5 +1,6 @@
 ## Skills 🧠
  - *C#, WPF*
+ - Golang
  - *HTML, CSS, JS, TS*
  - *Node JS*
  - *Webpack, Vite*
