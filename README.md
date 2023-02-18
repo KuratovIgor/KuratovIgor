@@ -1,9 +1,8 @@
 ## Skills 🧠
- - *C#, C++*
- - *WPF*
+ - *C#, WPF*
  - *HTML, CSS, JS, TS*
  - *Node JS*
- - *Webpack*
+ - *Webpack, Vite*
  - *ESLint, StyleLint, Prettier*
  - *El-Plus*
  - *Vue.js*
