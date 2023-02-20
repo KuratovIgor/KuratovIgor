@@ -7,11 +7,11 @@
  - *ESLint, StyleLint, Prettier*
  - *El-Plus*
  - *Vue.js*
- - *Git, Docker*
+ - *Git, Docker, NGINX, CI/CD*
  - *SQL*
  - *Refactoring, Design patterns, Data structures*
 
-## [My website](https://kuratovigor.github.io/portfolio-website/)
+## [My website](http://kuratovia.ru/)
 
 ## Might be interesting 🍒
  - [Funny orbit animation on CSS](https://kuratovigor.github.io/figuresorbit.github.io/)
