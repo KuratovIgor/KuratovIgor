@@ -1,4 +1,4 @@
-## Hi!
+## Hi! 👋
 ### I'm frontend developer from Novosibirsk. You can see my skills and experiences below. 
 #### But sometimes I'm a little backend and devops :) 👀👀👀 
 
