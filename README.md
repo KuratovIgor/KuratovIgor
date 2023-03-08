@@ -6,7 +6,7 @@
  - .NET Developer in [НППГА ЛУЧ](https://looch.ru/)
    - ***Dates***: Jule 2021 - April 2022 ***(10 months)***
    - ***Technologies***: C#, WPF
- - Frontent Developer in [Digital Clouds](https://dclouds.ru/) 
+ - Frontend Developer in [Digital Clouds](https://dclouds.ru/) 
    - ***Dates***: April 2022 - ***Now***
    - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
 
