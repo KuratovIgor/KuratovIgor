@@ -23,8 +23,8 @@
  - [Gramwork Telegram Bot](https://github.com/KuratovIgor/gram-work-bot). Currently under development. **Technologies**: Go, tgbotapi, Docker, 8base, GraphQL, CI/CD.
 
 ## Some web projects 🌐
- - [GitHub API worker](https://github.com/KuratovIgor/github-users-worker). **Technologies:** Vue 3, TypeScript. [Open in browser](https://kuratovigor.github.io/github-users-worker/).
  - [Pokedex](https://github.com/KuratovIgor/pokedex). **Technologies:** Vue 3, TypeScript, Node JS, Docker, Nginx, CI/CD. [Open in browser](http://pokedex.kuratovia.ru/).
+ - [GitHub API worker](https://github.com/KuratovIgor/github-users-worker). **Technologies:** Vue 3, TypeScript. [Open in browser](https://kuratovigor.github.io/github-users-worker/).
  - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk). Currently under development. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL.
 
 ## Desktop projects 💻
