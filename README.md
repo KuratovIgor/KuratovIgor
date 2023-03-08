@@ -47,6 +47,8 @@
 ## Project presets
  - [WEB project preset](https://github.com/KuratovIgor/web-project-preset)
 
+## Other
+ - [Unofficial hh.ru API Golang SDK](https://github.com/KuratovIgor/head_hunter_sdk)
 
 ### Contacts 📞
  - *VK: https://vk.com/igor_kuratov*
