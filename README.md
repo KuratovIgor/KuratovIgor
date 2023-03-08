@@ -1,3 +1,15 @@
+## Hi!
+### I'm frontend developer from Novosibirsk. You can see my skills and experiences below. 
+#### But sometimes I'm a little backend and devops :) 👀👀👀 
+
+## Experience 🎓 1,5+ years
+ - .NET Developer in [НППГА ЛУЧ](https://looch.ru/)
+   - ***Dates***: Jule 2021 - April 2022 ***(10 months)***
+   - ***Technologies***: C#, WPF
+ - Frontent Developer in [Digital Clouds](https://dclouds.ru/) 
+   - ***Dates***: April 2022 - ***Now***
+   - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
+
 ## Skills 🧠
  - *C#, WPF*
  - Golang, Gin
