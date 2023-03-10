@@ -51,6 +51,7 @@
  - [Unofficial hh.ru API Golang SDK](https://github.com/KuratovIgor/head_hunter_sdk)
 
 ### Contacts 📞
+ - *Linkedin: linkedin.com/in/igor-kuratov-961403254
  - *VK: https://vk.com/igor_kuratov*
  - *Gmail: kuratovigor084@gmail.com*
  - *Telegram: igor_kuratovv*
