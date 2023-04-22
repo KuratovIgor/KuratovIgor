@@ -4,10 +4,10 @@
 
 ## Experience 🎓 2+ years
  - .NET Developer in [НППГА ЛУЧ](https://looch.ru/)
-   - ***Dates***: Jule 2021 - April 2022 ***(10 months)***
+   - ***Dates***: Jule 2021 - March 2022 ***(10 months)***
    - ***Technologies***: C#, WPF
- - Frontend Developer in [Digital Clouds](https://dclouds.ru/) 
-   - ***Dates***: April 2022 - ***Now***
+ - Frontend Developer in [Digital Clouds](https://dclouds.io/) 
+   - ***Dates***: March 2022 - ***Now***
    - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
 
 ## Skills 🧠
