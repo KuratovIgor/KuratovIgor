@@ -2,7 +2,7 @@
 ### I'm frontend developer from Novosibirsk. You can see my skills and experiences below. 
 #### But sometimes I'm a little backend and devops :) 👀👀👀 
 
-## Experience 🎓 1,5+ years
+## Experience 🎓 2+ years
  - .NET Developer in [НППГА ЛУЧ](https://looch.ru/)
    - ***Dates***: Jule 2021 - April 2022 ***(10 months)***
    - ***Technologies***: C#, WPF
