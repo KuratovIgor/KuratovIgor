@@ -32,12 +32,12 @@
 
 ## Some backend projects 💣
  - [Todo API (REST)](https://github.com/KuratovIgor/todo-api). **Technologies**: Go, Gin, Docker, PostgreSQL.
- - [Gramwork Telegram Bot](https://github.com/KuratovIgor/gram-work-bot). Web part of my graduation project. **Technologies**: Go, tgbotapi, Docker, 8base, GraphQL, CI/CD.
+ - [Gramwork Telegram Bot](https://github.com/KuratovIgor/gram-work-bot). My graduation project. **Technologies**: Go, tgbotapi, Docker, 8base, GraphQL, CI/CD. [Open in Telegram](https://t.me/gram_work_bot).
 
 ## Some web projects 🌐
  - [Pokedex](https://github.com/KuratovIgor/pokedex). **Technologies:** Vue 3, TypeScript, Node JS, Docker, Nginx, CI/CD. [Open in browser](http://pokedex.kuratovia.ru/).
  - [GitHub API worker](https://github.com/KuratovIgor/github-users-worker). **Technologies:** Vue 3, TypeScript. [Open in browser](https://kuratovigor.github.io/github-users-worker/).
- - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk). My graduation project. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL. [Open in Telegram](https://t.me/gram_work_bot).
+ - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk).  Web part of my graduation project. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL. [Open in browser](https://gramwork.lk.kuratovia.ru/).
 
 ## Desktop projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000). **Technologies:** C#, WPF.
