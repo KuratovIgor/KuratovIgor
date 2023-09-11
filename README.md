@@ -23,8 +23,6 @@
  - *SQL*
  - *Refactoring, Design patterns, Data structures*
 
-## [My website](http://kuratovia.ru/)
-
 ## Might be interesting 🍒
  - [Funny orbit animation on CSS](https://github.com/KuratovIgor/figuresorbit.github.io). **Technologies:** HTML, CSS, JS. [Open in browser](https://kuratovigor.github.io/figuresorbit.github.io/).
  - [AIM training game](https://github.com/KuratovIgor/aim-training). **Technologies:** JS (Native). [Open in browser](https://kuratovigor.github.io/aim-training/).
@@ -35,9 +33,9 @@
  - [Gramwork Telegram Bot](https://github.com/KuratovIgor/gram-work-bot). My graduation project. **Technologies**: Go, tgbotapi, Docker, 8base, GraphQL, CI/CD. [Open in Telegram](https://t.me/gram_work_bot).
 
 ## Some web projects 🌐
- - [Pokedex](https://github.com/KuratovIgor/pokedex). **Technologies:** Vue 3, TypeScript, Node JS, Docker, Nginx, CI/CD. [Open in browser](http://pokedex.kuratovia.ru/).
+ - [Pokedex](https://github.com/KuratovIgor/pokedex). **Technologies:** Vue 3, TypeScript, Node JS, Docker, Nginx, CI/CD.
  - [GitHub API worker](https://github.com/KuratovIgor/github-users-worker). **Technologies:** Vue 3, TypeScript. [Open in browser](https://kuratovigor.github.io/github-users-worker/).
- - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk).  Web part of my graduation project. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL. [Open in browser](https://gramwork.lk.kuratovia.ru/).
+ - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk).  Web part of my graduation project. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL.
 
 ## Desktop projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000). **Technologies:** C#, WPF.
