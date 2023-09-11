@@ -9,7 +9,7 @@
  - Frontend Developer in Digital Clouds [dclouds.io](https://dclouds.io/), [dclouds.ru](https://dclouds.ru/) 
    - ***Dates***: March 2022 - August 2023
    - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
- - Middle Frontend Developer in [Sovcombank Technolohy](https://sovcombank.it/)
+ - Middle Frontend Developer in [Sovcombank Technology](https://sovcombank.it/)
    - ***Dates*** August 2023 - ***Now***
    - ***Technologies***: Vue, PHP (Laravel), Nuxt, TS, Docker, Pyrus
 
