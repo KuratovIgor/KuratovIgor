@@ -11,7 +11,7 @@
    - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
  - Middle Frontend Developer in [Sovcombank Technologies](https://sovcombank.it/)
    - ***Dates*** August 2023 - ***Now***
-   - ***Technologies***: Vue, PHP (Laravel), Nuxt, TS, Docker, Pyrus
+   - ***Technologies***: Vue, Nuxt, TS, Docker
 
 ## Skills 🧠
  - *C#, WPF*
