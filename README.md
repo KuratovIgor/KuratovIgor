@@ -11,44 +11,44 @@
    - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
  - Middle Frontend Developer in [Sovcombank Technologies](https://sovcombank.it/)
    - ***Dates*** August 2023 - ***Now***
-   - ***Technologies***: Vue, Nuxt, TS, Docker
+   - ***Technologies***: Vue, Nuxt, TS, Docker, PHP, YII2
 
 ## Skills 🧠
  - *C#, WPF*
- - Golang, Gin
+ - Go, Gin
  - *HTML, CSS, JS, TS*
  - *Node JS*
+ - *Vue, Nuxt*
  - *Webpack, Vite*
+ - *Vitest*
  - *ESLint, StyleLint, Prettier*
- - *El-Plus*
- - *Vue.js*
+ - *El-Plus, Vuetify*
  - *Git, Docker, NGINX, CI/CD*
  - *SQL*
+ - *GraphQL, ApolloClient*
  - *Refactoring, Design patterns, Data structures*
-
-## Might be interesting 🍒
- - [Funny orbit animation on CSS](https://github.com/KuratovIgor/figuresorbit.github.io). **Technologies:** HTML, CSS, JS. [Open in browser](https://kuratovigor.github.io/figuresorbit.github.io/).
- - [AIM training game](https://github.com/KuratovIgor/aim-training). **Technologies:** JS (Native). [Open in browser](https://kuratovigor.github.io/aim-training/).
- - [Colorful hover board](https://github.com/KuratovIgor/hover-board). **Technologies:** JS (Native). [Open in browser](https://kuratovigor.github.io/hover-board/).
 
 ## Some backend projects 💣
  - [Todo API (REST)](https://github.com/KuratovIgor/todo-api). **Technologies**: Go, Gin, Docker, PostgreSQL.
  - [Gramwork Telegram Bot](https://github.com/KuratovIgor/gram-work-bot). My graduation project. **Technologies**: Go, tgbotapi, Docker, 8base, GraphQL, CI/CD. [Open in Telegram](https://t.me/gram_work_bot).
 
 ## Some web projects 🌐
+ - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk).  Web part of my graduation project. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL.
  - [Pokedex](https://github.com/KuratovIgor/pokedex). **Technologies:** Vue 3, TypeScript, Node JS, Docker, Nginx, CI/CD.
  - [GitHub API worker](https://github.com/KuratovIgor/github-users-worker). **Technologies:** Vue 3, TypeScript. [Open in browser](https://kuratovigor.github.io/github-users-worker/).
- - [Gramwork LK](https://github.com/KuratovIgor/gram-work-lk).  Web part of my graduation project. **Technologies:** Vue 3, TypeScript, Apollo, GraphQL.
 
 ## Desktop projects 💻
  - [File sorter](https://github.com/KuratovIgor/FileSorter3000). **Technologies:** C#, WPF.
  - [Student record book](https://github.com/KuratovIgor/Record_book). **Technologies:** C#, WPF, T-SQL.
  - [Computer shop](https://github.com/KuratovIgor/SCN). **Technologies:** C#, WPF, T-SQL.
+ - [Snake game](https://github.com/KuratovIgor/snake-wpf). **Technologies:** C#, WPF.
  
 ## Project presets
- - [WEB project preset](https://github.com/KuratovIgor/web-project-preset)
+ - [Vue FSD project preset](https://github.com/KuratovIgor/vue-fsd-preset)
+ - [Vue project preset](https://github.com/KuratovIgor/vue-preset)
+ - [WEB project preset, webpack configuration](https://github.com/KuratovIgor/web-project-preset)
 
-## Other
+## Libraries
  - [Unofficial hh.ru API Golang SDK](https://github.com/KuratovIgor/head_hunter_sdk)
 
 ### Contacts 📞
