@@ -2,17 +2,6 @@
 ### I'm frontend developer from Novosibirsk. You can see my skills and experiences below. 
 #### But sometimes I'm a little backend and devops :) 👀👀👀 
 
-## Experience 🎓 3 years
- - .NET Developer in [НППГА ЛУЧ](https://looch.ru/)
-   - ***Dates***: Jule 2021 - March 2022 ***(10 months)***
-   - ***Technologies***: C#, WPF
- - Frontend Developer in Digital Clouds [dclouds.io](https://dclouds.io/), [dclouds.ru](https://dclouds.ru/) 
-   - ***Dates***: March 2022 - August 2023
-   - ***Technologies***: Vue, Nuxt, TS, Docker, NGINX, CI/CD
- - Middle Frontend Developer in [Sovcombank Technologies](https://sovcombank.it/)
-   - ***Dates*** August 2023 - ***Now***
-   - ***Technologies***: Vue, Nuxt, TS, Docker, PHP, YII2
-
 ## Skills 🧠
  - *C#, WPF*
  - Go, Gin
