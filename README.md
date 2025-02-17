@@ -1,5 +1,5 @@
 ## Hi! 👋
-### I'm frontend developer from Novosibirsk. You can see my skills and experiences below. 
+### I'm frontend developer with work experience 4+ years.
 #### But sometimes I'm a little backend and devops :) 👀👀👀 
 
 ## Skills 🧠
